@@ -7,4 +7,15 @@
     <string name="start">Start</string>
     <string name="exit">Exit</string>
     <string name="Theme">Theme</string>
+    <string name="levelOfGame">Choose a game level</string>
+    <string name="firstLevel">1. Level</string>
+    <string name="text">How many verses does the shortest Surah in the Qur\'an contain?</string>
+    <string name="text2">what surah is recited in each raqaat of namaz?</string>
+    <string name="btnFatiha">Fatiha</string>
+    <string name="btnIhlas">Ihlas</string>
+    <string name="btnKavsar">Kavsar</string>
+    <string name="btnBakara">Bakara</string>
+    <string name="text3">3. Level</string>
+    <string name="textQuestion">how many prophets are mentioned by name in the Qur\'an?</string>
+    <string name="textLevel">2. Level</string>
 </resources>

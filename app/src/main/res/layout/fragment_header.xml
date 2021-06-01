@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100sp"
-        android:text="Выберите уровень игры!"
+        android:text="@string/levelOfGame"
         android:textSize="25sp"
         android:textStyle="bold|italic" />
 

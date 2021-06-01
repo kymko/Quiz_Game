@@ -4,5 +4,16 @@
     <string name="start">Играть</string>
     <string name="exit">Выйти</string>
     <string name="Theme">Тема</string>
+    <string name="levelOfGame">Выберите уровень игры!</string>
+    <string name="firstLevel">1. Уровень</string>
+    <string name="text">Сколько аятов содержит самая короткая сура в Священном Коране?</string>
+    <string name="text2">Какая сура читается в каждом ракаате намаза?</string>
+    <string name="btnFatiha">Аль-Фатиха</string>
+    <string name="btnIhlas">аль-ихлас</string>
+    <string name="btnKavsar">аль-кавсар</string>
+    <string name="btnBakara">бакара</string>
+    <string name="text3">3. Уровень</string>
+    <string name="textQuestion">Сколько пророков поименно упомянуто в Коране?</string>
+    <string name="textLevel">2. Уровень</string>
 
 </resources>

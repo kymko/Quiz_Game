@@ -8,4 +8,15 @@
     <string name="start">Баштоо</string>
     <string name="exit">Чыгуу</string>
     <string name="Theme">тема</string>
+    <string name="levelOfGame">Оюндун денгээлин танданыз</string>
+    <string name="firstLevel">1. Денгээл</string>
+    <string name="text">Курандагы эн кыска суро канча аятты камтыйт?</string>
+    <string name="text2">Ар бир намазда кайсы суро окулат?</string>
+    <string name="btnFatiha">Аль-Фатиха</string>
+    <string name="btnIhlas">аль-ихлас</string>
+    <string name="btnKavsar">аль-кавсар</string>
+    <string name="btnBakara">бакара</string>
+    <string name="text3">3. Денгээл</string>
+    <string name="textQuestion">Куранда канча Пайгамбардын аты айтылган?</string>
+    <string name="textLevel">2. Денгээл</string>
 </resources>

@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30sp"
-        android:text="1.  Уровень"
+        android:text="@string/firstLevel"
         android:textColor="@android:color/holo_blue_bright"
         android:textSize="35sp" />
 
@@ -23,7 +23,7 @@
         android:layout_marginLeft="20sp"
         android:layout_marginTop="60sp"
         android:layout_marginRight="20sp"
-        android:text=" Сколько аятов содержит самая короткая сура в Священном Коране?"
+        android:text="@string/text"
         android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold" />
