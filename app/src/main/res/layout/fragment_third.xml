@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/moon"
+    android:orientation="vertical"
+    tools:context="kg.geektech.fragments.FirstFragment">
+
+
+    <TextView
+        android:id="@+id/first_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:text="3.  Уровень"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/second_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="60sp"
+        android:layout_marginRight="20sp"
+        android:text=" Сколько пророков поименно упомянуто в Коране?"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_first_3"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="20dp"
+        android:height="100dp"
+        android:background="@drawable/bg_button"
+        android:text="10" />
+
+    <Button
+        android:id="@+id/btn_second_3"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/bg_button"
+        android:text="30" />
+
+    <Button
+        android:id="@+id/btn_third_3"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/bg_button"
+        android:text="25" />
+
+    <Button
+        android:id="@+id/btn_fourth_3"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/bg_button"
+        android:text="24" />
+
+</LinearLayout>

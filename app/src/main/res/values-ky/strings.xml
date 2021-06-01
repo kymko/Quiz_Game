@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Quiz оюн </string>
+    <string name="header">Quiz оюн</string>
+    <string name="start">Баштоо</string>
+    <string name="exit">Чыгуу</string>
+    <string name="Theme">тема</string>
+</resources>

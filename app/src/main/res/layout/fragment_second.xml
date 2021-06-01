@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/moon"
+    tools:context="kg.geektech.fragments.FirstFragment">
+
+
+    <TextView
+        android:id="@+id/first_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:text="2.  Уровень"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/second_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="60sp"
+        android:layout_marginRight="20sp"
+        android:text=" Какая сура читается в каждом ракаате намаза?"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_first_2"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/bg_button"
+        android:layout_marginBottom="20dp"
+        android:height="100dp"
+        android:text="Аль-Фатиха" />
+
+    <Button
+        android:id="@+id/btn_second_2"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:background="@drawable/bg_button"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="20dp"
+        android:text="аль-ихлас" />
+
+    <Button
+        android:id="@+id/btn_third_2"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="80dp"
+        android:background="@drawable/bg_button"
+        android:layout_marginBottom="20dp"
+        android:text="аль-кавсар" />
+
+    <Button
+        android:id="@+id/btn_fourth_2"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:background="@drawable/bg_button"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="20dp"
+        android:text="бакара" />
+
+</LinearLayout>
